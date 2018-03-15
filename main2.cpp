@@ -9,6 +9,8 @@ using namespace std;
 
 //adding comment 
 
+//adding second comment
+
 void explore(char *dir_name){
    DIR *dir; //pointer to an open directory
    struct dirent *entry; //stuff in the directory
